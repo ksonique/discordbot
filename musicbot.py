@@ -500,4 +500,4 @@ async def 도움말(ctx):
 
 
 
-bot.run('ODY2NDkyMjM3NjU4MzI1MDAz.YPTVyA.i6zyzi9MXKZ2tkvUCynEdRnbtn0')
+bot.run('ODY2NDkyMjM3NjU4MzI1MDAz.YPTVyA.otVY6k4EJ0HcFr88imBpfN1meek')
